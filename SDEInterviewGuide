@@ -1,0 +1,186 @@
+📚 DSA Topics and Questions by Difficulty Level 🚀
+
+-------------------------------------
+🔹 Arrays and Strings
+
+🔸 Easy Difficulty
+1. Two Sum - Amazon, Microsoft
+2. Reverse Integer
+3. Palindrome Number
+4. Roman to Integer
+
+🔸 Medium Difficulty
+5. Longest Substring Without Repeating Characters - Amazon, Facebook
+6. Container With Most Water - Google, Microsoft
+7. Longest Palindromic Substring - Amazon, Microsoft
+8. Group Anagrams - Amazon, Facebook
+9. Word Ladder - Amazon, Google
+
+🔸 Hard Difficulty
+10. Trapping Rain Water
+11. Median of Two Sorted Arrays - Amazon, Google, Microsoft
+12. Longest Valid Parentheses - Amazon, Google
+
+-------------------------------------
+🔹 Linked Lists
+
+🔸 Easy Difficulty
+13. Merge Two Sorted Lists - Amazon, Microsoft
+14. Remove Duplicates from Sorted Array
+15. Remove Element
+
+🔸 Medium Difficulty
+16. Reverse Nodes in k-Group
+17. Reorder List
+18. Intersection of Two Linked Lists
+19. Linked List Cycle II
+
+🔸 Hard Difficulty
+20. Copy List with Random Pointer
+21. Flatten a Multilevel Doubly Linked List
+
+-------------------------------------
+🔹 Stacks and Queues
+
+🔸 Easy Difficulty
+22. Min Stack
+23. Implement Queue using Stacks
+
+🔸 Medium Difficulty
+24. Largest Rectangle in Histogram
+25. Sliding Window Maximum
+26. Design Circular Queue
+
+🔸 Hard Difficulty
+27. Basic Calculator
+28. Implement Trie
+29. Implement LRU Cache
+
+-------------------------------------
+🔹 Trees and Binary Search Trees
+
+🔸 Easy Difficulty
+30. Symmetric Tree
+31. Validate Binary Search Tree
+
+🔸 Medium Difficulty
+32. Binary Tree Level Order Traversal
+33. Convert Sorted Array to Binary Search Tree
+34. Lowest Common Ancestor of a Binary Tree
+
+🔸 Hard Difficulty
+35. Serialize and Deserialize Binary Tree
+36. Binary Tree Maximum Path Sum
+37. Kth Smallest Element in a BST
+
+-------------------------------------
+🔹 Graphs
+
+🔸 Easy Difficulty
+38. Number of Islands
+
+🔸 Medium Difficulty
+39. Course Schedule
+40. Word Ladder
+
+🔸 Hard Difficulty
+41. Clone Graph
+42. Network Delay Time
+
+-------------------------------------
+🔹 Sorting and Searching
+
+🔸 Easy Difficulty
+43. Merge Sort
+44. Quick Sort
+45. Binary Search
+
+🔸 Medium Difficulty
+46. First Bad Version
+47. Find Peak Element
+
+🔸 Hard Difficulty
+48. Search in Rotated Sorted Array
+49. Merge Intervals
+
+-------------------------------------
+🔹 Dynamic Programming
+
+🔸 Easy Difficulty
+50. Climbing Stairs
+
+🔸 Medium Difficulty
+51. Longest Increasing Subsequence
+52. Coin Change
+
+🔸 Hard Difficulty
+53. Longest Common Subsequence
+54. Edit Distance
+
+-------------------------------------
+🔹 Greedy Algorithms
+
+🔸 Easy Difficulty
+55. Jump Game
+
+🔸 Medium Difficulty
+56. Gas Station
+
+
+🔸 Hard Difficulty
+57. Minimum Number of Arrows to Burst Balloons
+58. Activity Selection
+59. Minimum Swaps to Group All 1's Together
+
+-------------------------------------
+🔹 Backtracking
+
+🔸 Easy Difficulty
+60. Generate Parentheses
+
+🔸 Medium Difficulty
+61. Letter Combinations of a Phone Number
+62. Permutations
+
+🔸 Hard Difficulty
+63. N-Queens
+64. Word Search
+65. Sudoku Solver
+
+-------------------------------------
+🔹 Miscellaneous
+
+🔸 Easy Difficulty
+66. Rotate Image
+67. Majority Element
+
+🔸 Medium Difficulty
+68. Missing Number
+69. First Missing Positive
+
+🔸 Hard Difficulty
+70. Trapping Rain Water
+71. Longest Consecutive Sequence
+
+-------------------------------------
+🔹 System Design Interview Questions
+
+🔸 Easy Difficulty
+72. Design a URL Shortener
+
+🔸 Medium Difficulty
+73. Design a Social Media Feed
+
+🔸 Hard Difficulty
+74. Design a Parking Lot
+
+-------------------------------------
+🔹 Behavioral Interview Questions
+
+75. Tell me about yourself.
+76. Why do you want to work here?
+77. Describe a challenging situation and how you handled it.
+
+-------------------------------------
+Remember, this list provides a comprehensive overview of DSA topics and associated questions. As you practice, strive to understand the core concepts, optimize your solutions, and adapt your problem-solving approach. Good luck with your interview preparation journey! 🌟
+
